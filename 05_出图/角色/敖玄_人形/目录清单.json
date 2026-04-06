@@ -1,0 +1,47 @@
+{
+  "character": "敖玄",
+  "form": "人形",
+  "description": "敖玄（男主）人形状态的所有视觉参考资产",
+  "files": [
+    {
+      "filename": "aoxuan_human_baiyi_ref.png",
+      "style": "zhenren",
+      "clothing": "baiyi",
+      "type": "costume_variant",
+      "use_for": "白衣场景参考（备用）",
+      "notes": "真人写实风格，白色衣服，人形敖玄"
+    },
+    {
+      "filename": "aoxuan_human_heiyi_ref.png",
+      "style": "zhenren",
+      "clothing": "heiyi",
+      "type": "costume_variant",
+      "use_for": "黑衣场景参考（备用）",
+      "notes": "真人写实风格，黑色衣服，人形敖玄"
+    },
+    {
+      "filename": "aoxuan_human_baiyi_caiqian.png",
+      "style": "caiqian",
+      "clothing": "baiyi",
+      "type": "style_backup",
+      "use_for": "即梦无法用真人图生视频时的备用垫图",
+      "notes": "彩铅风格，白衣。提示词前必须加'影视真人风格'补偿质感"
+    },
+    {
+      "filename": "aoxuan_human_heiyi_caiqian.png",
+      "style": "caiqian",
+      "clothing": "heiyi",
+      "type": "style_backup",
+      "use_for": "即梦无法用真人图生视频时的备用垫图",
+      "notes": "彩铅风格，黑衣。提示词前必须加'影视真人风格'补偿质感"
+    },
+    {
+      "filename": "aoxuan_human_sanzhitu.png",
+      "style": "zhenren",
+      "clothing": "default",
+      "type": "three_view",
+      "use_for": "角色三视图参考/画风一致性锚点",
+      "notes": "真人写实风格8头身三视图，即梦图生视频降级时的风格锚点"
+    }
+  ]
+}

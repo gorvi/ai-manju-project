@@ -1,0 +1,56 @@
+{
+  "character": "敖玄",
+  "form": "白蛇",
+  "description": "敖玄（男主）白蛇/白龙状态的所有视觉参考资产",
+  "files": [
+    {
+      "filename": "aoxuan_snake_lightblue.png",
+      "style": "zhenren",
+      "type": "snake_reference",
+      "use_for": "小蛇受伤形态（破庙中）",
+      "notes": "白蛇蜷缩破庙角落，浅蓝背景，赤红瞳孔，受伤虚弱"
+    },
+    {
+      "filename": "aoxuan_dragon_fullbody_lightblue.png",
+      "style": "zhenren",
+      "type": "dragon_reference_fullbody",
+      "use_for": "白龙全身（渡劫天空镜头）",
+      "notes": "即梦5.0，图一形状参考+图二质感，飞行姿态，4爪（前2后2），尾巴无爪，银白鳞+红瞳+龙须，浅蓝天空"
+    },
+    {
+      "filename": "aoxuan_dragon_fullbody_lightblue_v1.png",
+      "style": "zhenren",
+      "type": "dragon_reference_v1",
+      "use_for": "白龙v1备选",
+      "notes": "飞行舒展姿态版"
+    },
+    {
+      "filename": "aoxuan_dragon_fullbody_lightblue_v2.png",
+      "style": "zhenren",
+      "type": "dragon_reference_v2",
+      "use_for": "白龙v2备选",
+      "notes": "超长飞行姿态版，v2更修长"
+    },
+    {
+      "filename": "aoxuan_dragon_xiuxing_whitebg.png",
+      "style": "zhenren",
+      "type": "dragon_reference_xiuxing",
+      "use_for": "小龙落地形态",
+      "notes": "纯白背景，通体洁白如玉，金色龙角"
+    },
+    {
+      "filename": "aoxuan_dragon_shape_reference.jpg",
+      "style": "shape_reference",
+      "type": "shape_reference",
+      "use_for": "龙形状姿态参考",
+      "notes": "线描龙，S型站立姿态"
+    },
+    {
+      "filename": "9339a00a52d1638281fae8d0342856be.jpg",
+      "style": "texture_reference",
+      "type": "texture_reference",
+      "use_for": "龙质感参考",
+      "notes": "质感参考图"
+    }
+  ]
+}

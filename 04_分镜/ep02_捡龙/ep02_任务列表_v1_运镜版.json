@@ -1,0 +1,119 @@
+{
+  "epid": "ep02",
+  "episode_name": "捡龙",
+  "shots": [
+    {
+      "shotid": "ep02_shot01",
+      "name": "片头字幕",
+      "duration": 5,
+      "enabled": false,
+      "dialogue": [],
+      "params": {
+        "images": [],
+        "prompt": "ep02_shot01\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜01 (0-5秒)\n镜头1 (0-5s)：纯黑背景，白色黑体大字逐行居中显现：第一行\"第一世\"停留1秒，第二行\"永宁城\"停留2秒，全程无任何其他内容",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 5
+      }
+    },
+    {
+      "shotid": "ep02_shot02",
+      "name": "九道天雷轰炸",
+      "duration": 10,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_jiudao_tianlei_16x9.png"
+        ],
+        "prompt": "ep02_shot02\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜02 (5-15秒) 场景：天庭之上\n镜头1 (5-10s)：乌云翻滚雷电交加，俯冲镜头穿越云层逼近龙身，一条通体漆黑的百丈巨龙在雷电中挣扎，龙鳞如墨，龙身蜿蜒数百丈，双翼展开遮天蔽日\n镜头2 (10-15s)：第八道天雷劈下龙身剧震龙鳞碎裂龙血飞溅，第九道天雷劈下，SLAP震效果，全程雷电交加氛围紧张惨烈",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 10
+      }
+    },
+    {
+      "shotid": "ep02_shot03",
+      "name": "敖玄坠落破庙",
+      "duration": 13,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/破庙/scene_pomiao_16x9_v50.png"
+        ],
+        "prompt": "ep02_shot03\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜03 (15-28秒) 场景：破庙内，黄昏\n镜头1 (15-20s)：黑龙从万丈高空坠落，被迫化形为三尺白蛇，砰的一声砸穿破庙屋顶，碎瓦片灰尘纷纷落下，主观视角跟随坠落\n镜头2 (20-25s)：白蛇浑身是血摔在冰冷的石板地上蜷缩在墙角，白色鳞片沾满血污奄奄一息，慢动作呈现\n镜头3 (25-28s)：焦外淡入，焦点从瓦片转移至蜷缩墙角的白蛇",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 13
+      }
+    },
+    {
+      "shotid": "ep02_shot04",
+      "name": "白蛇濒死",
+      "duration": 12,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/破庙内角落/scene_pomiao_corner_16x9_v50.png"
+        ],
+        "prompt": "ep02_shot04\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜04 (28-40秒) 场景：破庙内，黄昏余晖\n镜头1 (28-32s)：白蛇蜷缩在墙角浑身是血鳞片碎裂大半，赤红色眼睛里有痛苦不甘和绝望\n镜头2 (32-36s)：镜头缓慢下移展示全身伤痕累累，手持微幅晃动捕捉呼吸感\n镜头3 (36-40s)：白蛇身体微微发抖，它闭上眼睛准备迎接死亡（敖玄内心独白：万年的修行……就这样结束了吗……她怎么还不来……算了，不会有人来了……）",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 12
+      }
+    },
+    {
+      "shotid": "ep02_shot05",
+      "name": "沈映晚推门",
+      "duration": 15,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/破庙/scene_pomiao_16x9_v50.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/沈映晚/shenyingwan_fenhong_ref.png"
+        ],
+        "prompt": "ep02_shot05\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜05 (40-55秒) 场景：破庙门口，黄昏\n镜头1 (40-45s)：一只纤细的手推开破旧木门，吱呀作响\n镜头2 (45-50s)：夕阳从身后照进来给姑娘轮廓镀上金边，过肩镜头越过姑娘肩膀看破庙内部\n镜头3 (50-55s)：沈映晚站在门口，十八九岁，素青色衣裳乌发用木簪子挽着，肩上背着药篓，慢速推进至姑娘面部中景，金边光线轮廓感强",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 15
+      }
+    },
+    {
+      "shotid": "ep02_shot06",
+      "name": "发现白蛇",
+      "duration": 20,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/破庙内角落/scene_pomiao_corner_16x9_v50.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/沈映晚/shenyingwan_fenhong_ref.png"
+        ],
+        "prompt": "ep02_shot06\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑，自然对口型\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜06 (55-75秒) 场景：破庙内，黄昏余晖\n镜头1 (55-60s)：沈映晚蹲下歪头打量白蛇，赤红色蛇眸与她对视，双人镜头\n镜头2 (60-65s)：环绕运镜以两人为中心缓慢半周环绕，沈映晚轻声：\"受伤了？\"\n镜头3 (65-70s)：沈映晚心疼地轻声问：\"你是从哪儿摔下来的？怎么伤成这样？\"白蛇发出虚弱短促的嘶声\n镜头4 (70-75s)：沈映晚心软了，小心翼翼把白蛇捧起放进披风里裹好，温柔地轻声说：\"别怕，我带你回家。\"",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 20
+      }
+    },
+    {
+      "shotid": "ep02_shot07",
+      "name": "抱蛇离开",
+      "duration": 15,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/破庙/scene_pomiao_16x9_v50.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/沈映晚/shenyingwan_fenhong_ref.png"
+        ],
+        "prompt": "ep02_shot07\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜07 (75-90秒) 场景：破庙至户外，黄昏\n镜头1 (75-80s)：沈映晚把白蛇抱进怀里转身走出破庙，夕阳在她身后形成金边轮廓光\n镜头2 (80-85s)：白蛇蜷在她怀里闻到淡淡的药草香和她的体温（敖玄内心独白：好暖……我活了一万年，从来没有人抱过我……从来没有……）\n镜头3 (85-90s)：白蛇闭上眼睛沉沉睡去，焦外淡出",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 15
+      }
+    }
+  ]
+}

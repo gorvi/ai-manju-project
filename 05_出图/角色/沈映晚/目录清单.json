@@ -1,0 +1,63 @@
+{
+  "character": "沈映晚",
+  "form": "女主",
+  "description": "沈映晚（女主）所有视觉参考资产",
+  "files": [
+    {
+      "filename": "shenyingwan_xiandai_ref.png",
+      "style": "zhenren",
+      "clothing": "现代轻甜名媛装",
+      "type": "character_lock_modern",
+      "use_for": "第1集现代穿越版主要参考（外白渡桥镜头）",
+      "notes": "现代都市女子，浅蓝色一字领露肩衬衫，银灰色亮片百褶超短裙，慵懒丸子头，气质清新纯净。背景纯白。适合穿越剧中现代戏部分"
+    },
+    {
+      "filename": "shenyingwan_xiandai_caiqian.png",
+      "style": "caiqian",
+      "clothing": "现代轻甜名媛装",
+      "type": "fallback_modern",
+      "use_for": "即梦无法用真人图生成视频时的降级备选",
+      "notes": "彩铅风格版"
+    },
+    {
+      "filename": "shenyingwan_sanzhitu.png",
+      "style": "zhenren",
+      "clothing": "古装唐制齐胸襦裙",
+      "type": "character_lock_guzhuang",
+      "use_for": "第1-3集古装镜头（第1集梦境古装部分）",
+      "notes": "唐制齐胸襦裙，粉色绿色马卡龙色系，少女感，改良版双丫髻发髻，清新淡雅。背景纯白"
+    },
+    {
+      "filename": "shenyingwan_fenhong_ref.png",
+      "style": "zhenren",
+      "clothing": "粉红长裙素青衣裙",
+      "type": "character_lock",
+      "use_for": "古代日常戏主要参考（第1集破庙镜头）",
+      "notes": "粉红长裙配素青衣裙，黑发束髻，背竹制药篓，古典少女形象"
+    },
+    {
+      "filename": "shenyingwan_fenhong_caiqian.png",
+      "style": "caiqian",
+      "clothing": "粉红长裙素青衣裙",
+      "type": "fallback",
+      "use_for": "即梦无法用真人图生成视频时的降级备选",
+      "notes": "彩铅风格版"
+    },
+    {
+      "filename": "shenyingwan_fenhongtuodi_ref.png",
+      "style": "zhenren",
+      "clothing": "粉红拖地长裙",
+      "type": "character_lock_formal",
+      "use_for": "正式场合古装参考",
+      "notes": "粉红拖地长裙，古风正式装束"
+    },
+    {
+      "filename": "shenyingwan_fenhongtuodi_caiqian.png",
+      "style": "caiqian",
+      "clothing": "粉红拖地长裙",
+      "type": "fallback",
+      "use_for": "即梦无法用真人图生成视频时的降级备选",
+      "notes": "彩铅风格版"
+    }
+  ]
+}

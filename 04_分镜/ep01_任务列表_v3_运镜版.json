@@ -1,0 +1,222 @@
+{
+  "epid": "ep01",
+  "episode_name": "桥上的人",
+  "shots": [
+    {
+      "shotid": "ep01_shot01",
+      "name": "片头字幕",
+      "time_range": "0-5s",
+      "duration": 5,
+      "enabled": false,
+      "dialogue": [],
+      "params": {
+        "images": [],
+        "prompt": "ep01_shot01\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜01 (0-5秒)\n镜头1 (0-5s)：纯黑背景，白色黑体大字逐行居中显现：第一行\"三千年\"停留1.5秒，第二行\"四世轮回\"停留1.5秒，第三行\"他从未放弃\"停留2秒，全程无任何其他内容",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 5
+      }
+    },
+    {
+      "shotid": "ep01_shot02",
+      "name": "外白渡桥全景",
+      "time_range": "5-15s",
+      "duration": 10,
+      "enabled": false,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_waibaiduqiao_16x9.png"
+        ],
+        "prompt": "ep01_shot02\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜02 (5-15秒) 场景：上海外白渡桥全景，蓝调夜空，夜风很大\n镜头1 (5-15s)：桁架桥身亮起暖黄灯光，黄浦江水面波光粼粼，远处东方明珠塔和陆家嘴摩天楼灯火通明，镜头从桥面全景匀速向前推进定格在桥中心位置",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 10
+      }
+    },
+    {
+      "shotid": "ep01_shot03",
+      "name": "林晓溪望月自语",
+      "time_range": "15-25s",
+      "duration": 10,
+      "enabled": false,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_waibaiduqiao_16x9.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/沈映晚/shenyingwan_xiandai_caiqian.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/手机截图/mobilewechat.png"
+        ],
+        "audios": [],
+        "prompt": "ep01_shot03\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑，自然对口型\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜03 (15-25秒) 场景：外白渡桥，夜风拂面\n镜头1 (15-19s)：林晓溪面部特写，眼眶通红鼻尖发红显然刚哭过，攥着手机屏幕显示解约邮件通知\n镜头2 (19-21s)：林晓溪抬头望月，神情失落\n镜头3 (21-25s)：她轻声自语：\"第四世的结局到底该怎么写呢？\"又望月自言自语：\"如果真的有龙就好了，说不定还能帮我写第四章。\"声音带着鼻音嗓子哑了",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 10
+      }
+    },
+    {
+      "shotid": "ep01_shot04",
+      "name": "雷雨降临",
+      "time_range": "25-40s",
+      "duration": 15,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_waibaiduqiao_leiyu_16x9.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/沈映晚/shenyingwan_xiandai_caiqian.png"
+        ],
+        "audios": [],
+        "prompt": "ep01_shot04\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜04 (25-40秒) 场景：外白渡桥，雷雨骤降\n镜头1 (25-30s)：天空骤变，乌云翻滚吞没月亮，紫电在云层穿梭，手持微幅晃动模拟大风感\n镜头2 (30-35s)：暴雨倾盆，一道惊雷劈下，栏杆被劈得火花四溅，荷兰角倾斜营造不安氛围\n镜头3 (35-40s)：林晓溪尖叫后退踉跄，她大喊：\"什么玩意儿？！\"闪电时画面短暂明暗交替",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 15
+      }
+    },
+    {
+      "shotid": "ep01_shot05",
+      "name": "时光隧道张开",
+      "time_range": "40-55s",
+      "duration": 15,
+      "enabled": false,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_tunnel_16x9.png"
+        ],
+        "prompt": "ep01_shot05\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜05 (40-55秒) 场景：外白渡桥夜空，时空虫洞裂开\n镜头1 (40-45s)：夜空中裂开的时空虫洞，银白色光芒从裂缝中透出，光洞缓缓张开如巨门\n镜头2 (45-55s)：隧道内星光云层旋转流淌，能量气流翻涌，希区柯克式变焦镜头向后移动同时背景扩展，色彩从蓝紫冷调过渡至金橙暖调，空间撕裂感强烈",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 10
+      }
+    },
+    {
+      "shotid": "ep01_shot06",
+      "name": "敖玄走出隧道",
+      "time_range": "55-65s",
+      "duration": 10,
+      "enabled": false,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_tunnel_16x9.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/敖玄_人形/aoxuan_human_heiyi_caiqian.png"
+        ],
+        "prompt": "ep01_shot06\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜06 (55-65秒) 场景：时空隧道出口\n镜头1 (55-60s)：敖玄从时空隧道光门中缓步走出，黑色长发如墨散落肩上，五官深邃冷峻如冰雕，衣袂在风中飘飞，360度环绕运镜环绕男子\n镜头2 (60-65s)：隧道光芒渐渐消散，敖玄向前匀速推进行走，镜头同步后退保持男子在画面中心",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 10
+      }
+    },
+    {
+      "shotid": "ep01_shot07",
+      "name": "敖玄走向镜头",
+      "time_range": "65-75s",
+      "duration": 10,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_waibaiduqiao_16x9.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/敖玄_人形/aoxuan_human_heiyi_caiqian.png"
+        ],
+        "prompt": "ep01_shot07\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜07 (65-75秒) 场景：外白渡桥\n镜头1 (65-70s)：敖玄步伐沉稳走向镜头，黑色长发如墨，衣袂被夜风吹动，身后是黄浦江夜景，镜头同步后退跟随\n镜头2 (70-75s)：敖玄面部特写，嘴唇微微动了动，眼神温柔又悲伤，三千年的等待终于走到她面前（无声）",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 10
+      }
+    },
+    {
+      "shotid": "ep01_shot08",
+      "name": "接吻",
+      "time_range": "75-87s",
+      "duration": 12,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_waibaiduqiao_leiyu_16x9.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/沈映晚/shenyingwan_xiandai_caiqian.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/敖玄_人形/aoxuan_human_heiyi_caiqian.png"
+        ],
+        "prompt": "ep01_shot08\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑，自然对口型\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜08 (75-87秒) 场景：外白渡桥，雷雨夜\n镜头1 (75-78s)：敖玄从背后环抱林晓溪，手扣住她的腰托住后脑勺，两人接吻，金色闪电划过背景，暴雨倾盆，焦外淡入\n镜头2 (78-82s)：环绕运镜180度以两人为中心缓慢半周环绕，镜头推进至两人面部特写，慢动作呈现吻的细节\n镜头3 (82-87s)：林晓溪震惊空白，心跳漏拍，他吻她了（敖玄内心：终于吻到你了）",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 12
+      }
+    },
+    {
+      "shotid": "ep01_shot09",
+      "name": "耳光离别",
+      "time_range": "87-97s",
+      "duration": 10,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/镜头素材/ep01_shot09_kiss.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_waibaiduqiao_16x9.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/沈映晚/shenyingwan_xiandai_caiqian.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/敖玄_人形/aoxuan_human_heiyi_caiqian.png"
+        ],
+        "audios": [],
+        "prompt": "ep01_shot09\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑，自然对口型\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜09 (87-97秒) 场景：外白渡桥\n镜头1 (87-89s)：林晓溪猛地推开敖玄，抡圆胳膊一记耳光落下，冲击推进至女子手掌中景\n镜头2 (89-91s)：SLAP震效果模拟耳光冲击力，敖玄左脸浮起红印\n镜头3 (91-94s)：敖玄面部特写，银色眼泪在月光下闪着碎钻一样的光，嘴角弯起极淡的笑容，声音低沉沙哑：\"第四世了。\"声音发抖：\"你到底什么时候……才能记住我？\"\n镜头4 (94-97s)：林晓溪又羞又怒声音发抖质问：\"你有病吧？！你谁啊？！大半夜的从哪冒出来的？！\"敖玄身体开始化为银色光粒消散",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 10
+      }
+    },
+    {
+      "shotid": "ep01_shot10",
+      "name": "敖玄消散",
+      "time_range": "97-100s",
+      "duration": 3,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_waibaiduqiao_leiyu_16x9.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/敖玄_人形/aoxuan_human_heiyi_caiqian.png"
+        ],
+        "prompt": "ep01_shot10\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜10 (97-105秒) 场景：外白渡桥，雷雨夜\n镜头1 (97-99s)：敖玄身体碎裂成无数银色光点，静止定格\n镜头2 (99-102s)：镜头360度环绕敖玄身体，光点从雨中向上飘散\n镜头3 (102-105s)：敖玄化为银色萤火虫般的光粒融入夜空，他眼中含泪但嘴角弯起淡淡笑容",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 8
+      }
+    },
+    {
+      "shotid": "ep01_shot11",
+      "name": "林晓溪坠落",
+      "time_range": "100-112s",
+      "duration": 12,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/08_工具/extract_last_frame.images/ep01_shot09_01_caiqian.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/场景底图_16x9_v50/上海/scene_waibaiduqiao_leiyu_16x9.png",
+          "/Users/ghw/Documents/xiaoshuo/ai-manju-project/05_出图/角色/沈映晚/shenyingwan_xiandai_caiqian.png"
+        ],
+        "prompt": "ep01_shot11\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜11 (105-112秒) 场景：外白渡桥，桥面碎裂\n镜头1 (105-108s)：桥面剧烈震动碎裂，林晓溪尖叫着脚下石板碎裂下坠，主观视角下坠，镜头轻微桶滚旋转营造眩晕失重感\n镜头2 (108-112s)：外白渡桥灯光越来越远，东方明珠越来越小，整座城市旋转模糊破碎，记忆断裂感，虫洞视角穿越（内心独白：他的名字他说了什么为什么我脖子有冰凉的东西……痛……整个世界在旋转破碎）",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 12
+      }
+    },
+    {
+      "shotid": "ep01_shot12",
+      "name": "终字幕",
+      "time_range": "112-118s",
+      "duration": 6,
+      "enabled": true,
+      "dialogue": [],
+      "params": {
+        "images": [],
+        "prompt": "ep01_shot12\n4K超清，HDR，电影级真人风格，60fps，全程无切镜一镜到底，画面稳定无多余抖动，光影统一柔和，无多余特效，电影级高度动态专业运镜，精准还原镜头运动逻辑\n无字幕、无黑屏、无穿帮、无内容崩坏、无变形\n主分镜12 (112-118秒)\n镜头1 (112-115s)：纯黑背景，白色黑体大字逐行居中显现：\"痛。\"停留2秒后淡出\n镜头2 (115-118s)：第二行\"她穿越了。\"停留2秒，全程无任何其他内容",
+        "model_version": "seedance2.0",
+        "ratio": "9:16",
+        "duration": 6
+      }
+    }
+  ]
+}
